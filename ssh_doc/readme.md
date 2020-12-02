@@ -12,8 +12,8 @@
 * 输入格式如下：ssh://name:pwd@ip:prot(例：ssh://root:pwd@192.168.1.1:22)  
 * 输入完成后回车选择保存地址  
 ![图标](https://github.com/flylink-code/document/blob/master/ssh_doc/picture/4.png?raw=true)  
-* 选项1是保存到当前用户下  
-* 选项2是保存到所有用户下  
+> 选项1是保存到当前用户下    
+选项2是保存到所有用户下  
 * 选择完成后添加成功  
 ![图标](https://github.com/flylink-code/document/blob/master/ssh_doc/picture/5.png?raw=true)
 * 选中新增的ssh，点击右边加号框图标，弹出新窗口，开始新连接  
