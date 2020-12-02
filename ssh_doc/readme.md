@@ -19,3 +19,6 @@
 * 选中新增的ssh，点击右边加号框图标，弹出新窗口，开始新连接  
 ![图标](https://github.com/flylink-code/document/blob/master/ssh_doc/picture/6.png?raw=true)
 
+## 附录
+### 1.注意事项
+* 每次连接远程都需要输入密码
